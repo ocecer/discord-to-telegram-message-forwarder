@@ -1,0 +1,4 @@
+discord==1.7.3
+telebot==0.0.4 
+pyTelegramBotAPI==4.4.0
+python-decouple
