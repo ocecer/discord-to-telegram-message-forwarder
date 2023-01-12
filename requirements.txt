@@ -1,4 +1,6 @@
-discord==1.7.3
-telebot==0.0.4 
-pyTelegramBotAPI==4.4.0
-python-decouple
+discord==2.1.0
+discord.py==2.1.0
+python-decouple==3.6
+requests==2.28.1
+telebot==0.0.4
+urlextract==1.6.0

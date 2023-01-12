@@ -1,3 +1,5 @@
 .env
 ReadMe.docx
 ReadMe.pdf
+test*
+__pycache__
